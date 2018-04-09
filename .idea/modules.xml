@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Application Meteo/ApplicationMeteo.iml" filepath="$PROJECT_DIR$/Application Meteo/ApplicationMeteo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionDriver/CollectionDriver.iml" filepath="$PROJECT_DIR$/CollectionDriver/CollectionDriver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections.iml" filepath="$PROJECT_DIR$/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeSaviezVous/LeSaviezVous.iml" filepath="$PROJECT_DIR$/LeSaviezVous/LeSaviezVous.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palindrome/Palindrome.iml" filepath="$PROJECT_DIR$/Palindrome/Palindrome.iml" />
+    </modules>
+  </component>
+</project>
